@@ -1,0 +1,57 @@
+.centro {
+  justify-content: center;
+  background-color: #fff;
+  width: 365px;
+  height: 570px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 1px 1px 100px 10px rgb(0, 0, 0, 17%);
+  font-family: 'Outfit';
+  text-align: center;
+
+}
+
+.imagenqr {
+  margin-right: 1px;
+  margin-top: 15px;
+  border-radius: 10px;
+}
+
+.titulo {
+  font-size: 27px;
+  color: rgb(35, 48, 74);
+  padding-left: 14px;
+  text-align: center;
+  font-weight: bolder;
+  padding-right: 10px;
+  margin-bottom: 1px;
+}
+
+.parrafo1 {
+  font-size: 16px;
+  color: rgb(161, 164, 173);
+  font-weight: 500;
+  margin-bottom: 1px;
+}
+
+.parrafo2 {
+  font-size: 16px;
+  color: rgb(161, 164, 173);
+  font-weight: 500;
+  margin-top: 3px;
+  margin-bottom: 1px;
+}
+
+.parrafo3 {
+  font-size: 16px;
+  color: rgb(161, 164, 173);
+  font-weight: 500;
+  margin-top: 3px;
+}
+
+
+body {
+  display: grid;
+  place-content: center;
+  margin: 100px;
+}
